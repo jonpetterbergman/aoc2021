@@ -1,0 +1,6 @@
+*.testdata*
+*.smalldata
+*.input
+*.tiny
+*~
+\#*\#

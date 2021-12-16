@@ -10,3 +10,11 @@ Some "rules" I made up along the way:
 * Don't fix ugly/buggy code once the right answer is produced, show it "Warts and all"
 
 In particular the code for part 1 of day 10 is wrong! it produces the right answer "by accident".
+
+I had trouble with day 14, `aoc14_2.lisp` is basically starting from scratch.
+
+## Running examples
+
+All examples should be possible to load with eg `(load "aoc13.lisp")` and then run with `(run)` and `(run2)` (for the second part for that day).
+
+The code expects the data to be in `aocxx.input` in the same directory.
